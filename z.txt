@@ -1,4 +1,8 @@
 mi first line with my file z
+<<<<<<< HEAD
 second line.
 3rd line in my appbar.
 4th line in my appbar...
+=======
+second line...
+>>>>>>> 5d86e994e25a0dfe4ca3a1efad83a16301fca461
