@@ -1,3 +1,8 @@
 mi first line with my file z
 second line.
+<<<<<<< HEAD
 thrid line by joseluisdiaz9 - first change
+=======
+3rd line in my appbar.
+4th line in my appbar
+>>>>>>> cf3e4ebe2f0cf93796152de6a30348461ee55f29
