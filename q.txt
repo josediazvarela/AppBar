@@ -1,5 +1,2 @@
 Este mi archivo inicial q
 My second line in q.txt
-3
-4
-5
