@@ -1,6 +1,2 @@
 mi first line with my file z
-<<<<<<< HEAD
 second line.
-=======
-second line
->>>>>>> 3c9330430a92589c549802dc533ff1aa3814b596
