@@ -1,2 +1,6 @@
 Este mi archivo inicial q
+<<<<<<< HEAD
 My second line in q.txt.
+=======
+My second line in q.txt
+>>>>>>> 3c9330430a92589c549802dc533ff1aa3814b596
