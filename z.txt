@@ -1,3 +1,3 @@
 mi first line with my file z
 second line
-3rd line 
+3rd line .
